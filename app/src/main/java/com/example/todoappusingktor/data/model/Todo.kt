@@ -8,4 +8,4 @@ data class Todo(
     val id: Int? = null,
     val iscompleted: Boolean,
     val title: String
-)
+) 
